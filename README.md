@@ -12,10 +12,10 @@ A C-based program for encrypting and decrypting files using the XOR method. This
 
 
 ### Files in the Repository:
-**main.c:** The main program file containing the encryption and decryption logic.
+**main.c:** This is the source code file containing the C program. It includes the logic for encrypting and decrypting files using the XOR method.
+**main.o:** This is the compiled object file generated from main.c during the compilation process. It contains the machine-level code and is an intermediate step in producing the executable.
+**main.exe:** This is the executable file generated after compiling main.c. It is the final program that can be run to perform the file encryption and decryption tasks.
 **README.md:** Documentation and details about the project (this file).
-**run_instructions.txt**: Step-by-step guide to compile and run the program.
-**Sample Input Files**: Example files for testing the program (optional, if needed).
 
 ### Prerequisites:
 AC compiler installed on your system:
