@@ -37,10 +37,10 @@ Valid file paths for input and output files.
 2. Navigate to the folder containing `main.c`.
 3. Compile the program:
 
-5. Provide input when prompted:
+4. Provide input when prompted:
 - Input file path (use absolute or relative paths).
 - Output file path.
 - Encryption/Decryption key.
 
-6. Check the output file at the specified location for results.
+5. Check the output file at the specified location for results.
 This setup ensures anyone using your repository has all the required information to use your program effectively!
